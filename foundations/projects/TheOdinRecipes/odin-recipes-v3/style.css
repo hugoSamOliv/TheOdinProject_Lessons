@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:blanchedalmond;
+    margin: 45px 0px;
+}
+
+.header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 35px;
+    padding: 5px 0px;
+}
+
+.recipe {
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.recipe-container {
+    text-align: center;   
+}
+
+.recipe-container li {
+    margin-bottom: 15px;
+}
+
+.food {
+    width: 400px;
+    height: auto;
+}
+
+.food-container {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.header.mini-header {
+    font-size: 36px;
+    width: 300px;
+    margin: 30px auto;
+}
+
+.sub-header {
+    color: white;
+    font-size: 24px;
+    background-color: black;
+    font-weight: bold;
+    margin: 0px 90px;
+    padding: 5px;
+}
+
+.text {
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    margin:  0px 100px;
+}
+
+.text.descriptive {
+    font-size: 18px;
+}
+
+li {
+    margin: 15px 15px;
+}
